@@ -2,8 +2,8 @@
 <h3 align="center">一位热爱技术的全栈开发工程师 👨‍💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=termiubot&label=访问量&color=0e75b6&style=flat" alt="访问量" />
-  <img src="https://img.shields.io/github/stars/termiubot?label=Stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=codingmesh&label=访问量&color=0e75b6&style=flat" alt="访问量" />
+  <img src="https://img.shields.io/github/stars/codingmesh?label=Stars&style=social" alt="stars" />
 </p>
 
 ### 👨‍💼 关于我

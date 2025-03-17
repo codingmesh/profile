@@ -52,13 +52,13 @@ Kubernetes    ████████████░░░░░░░░   60%
 
 ### 🎯 项目作品
 
-- 🕒 [flipclock](https://github.com/termiubot/flip-clock) - 优雅的翻页时钟应用
+- 🕒 [flipclock](https://github.com/codingmesh/flip-clock) - 优雅的翻页时钟应用
 
   - 使用 Vue3 + TypeScript 开发
   - 支持多种主题切换
   - 高度可定制的界面
 
-- 📸 [camera](https://github.com/termiubot/electron-camera) - 基于 Electron 的相机应用
+- 📸 [camera](https://github.com/codingmesh/electron-camera) - 基于 Electron 的相机应用
   - 跨平台支持
   - 内置多种滤镜效果
   - 支持录制视频
@@ -75,7 +75,7 @@ Kubernetes    ████████████░░░░░░░░   60%
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=termiubot&show_icons=true&theme=radical&locale=cn" alt="termiubot" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codingmesh&show_icons=true&theme=radical&locale=cn" alt="codingmesh" />
 </p>
 
 <!-- <p align="center">
@@ -83,19 +83,19 @@ Kubernetes    ████████████░░░░░░░░   60%
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=termiubot&layout=compact&theme=radical&locale=cn" alt="常用语言" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmesh&layout=compact&theme=radical&locale=cn" alt="常用语言" />
 </p>
 
 ### 📈 贡献图表
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=termiubot&theme=radical" alt="贡献图表"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingmesh&theme=radical" alt="贡献图表"/>
 </p>
 
 ### 🏆 GitHub 成就
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=termiubot&theme=radical&row=1" alt="trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codingmesh&theme=radical&row=1" alt="trophy"/>
 </p>
 
 ### 📫 联系方式

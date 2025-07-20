@@ -128,15 +128,15 @@
 
 | 技能 | 熟练度 | 进度条 |
 |------|--------|--------|
-| **Java** | 90% | ![Java](https://progress-bar.dev/90?title=Java&width=200&color=ED8B00) |
-| **TypeScript** | 85% | ![TypeScript](https://progress-bar.dev/85?title=TypeScript&width=200&color=007ACC) |
-| **AI/LLM 开发** | 80% | ![AI](https://progress-bar.dev/80?title=AI/LLM&width=200&color=FF6B35) |
-| **RAG 系统** | 78% | ![RAG](https://progress-bar.dev/78?title=RAG&width=200&color=FF4B4B) |
-| **Python** | 75% | ![Python](https://progress-bar.dev/75?title=Python&width=200&color=14354C) |
-| **Agent 架构** | 75% | ![Agent](https://progress-bar.dev/75?title=Agent&width=200&color=4285F4) |
-| **Docker** | 85% | ![Docker](https://progress-bar.dev/85?title=Docker&width=200&color=2496ED) |
-| **Kubernetes** | 60% | ![K8s](https://progress-bar.dev/60?title=K8s&width=200&color=326CE5) |
-| **Go** | 55% | ![Go](https://progress-bar.dev/55?title=Go&width=200&color=00ADD8) |
+| **Java** | 90% | `████████████████████▓▓▓▓` |
+| **TypeScript** | 85% | `████████████████████▓▓▓` |
+| **AI/LLM 开发** | 80% | `████████████████████▓▓▓` |
+| **RAG 系统** | 78% | `███████████████████▓▓▓▓` |
+| **Python** | 75% | `██████████████████▓▓▓▓▓` |
+| **Agent 架构** | 75% | `██████████████████▓▓▓▓▓` |
+| **Docker** | 85% | `████████████████████▓▓▓` |
+| **Kubernetes** | 60% | `██████████████▓▓▓▓▓▓▓▓▓` |
+| **Go** | 55% | `█████████████▓▓▓▓▓▓▓▓▓▓` |
 
 </div>
 
@@ -252,58 +252,156 @@
 - 🎮 独立游戏开发
 - ✈️ 旅行探索
 
-### 📊 GitHub 数据统计
-
 <div align="center">
-
-| <img src="https://github-readme-stats.vercel.app/api?username=codingmesh&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="codingmesh 的统计" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmesh&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="常用语言" /> |
-| --- | --- |
-
+<h2>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git">
+  GitHub 数据统计
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git">
+</h2>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingmesh&theme=tokyonight&hide_border=true" alt="提交连续天数" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=codingmesh&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&card_width=400" alt="GitHub 统计" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmesh&layout=compact&theme=tokyonight&hide_border=true&locale=cn&card_width=400" alt="常用语言" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 📈 贡献活跃度
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingmesh&theme=tokyonight" alt="详细贡献"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingmesh&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="提交连续天数" />
 </div>
 
 <div align="center">
-
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingmesh&theme=tokyonight" alt="各语言项目分布" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingmesh&theme=tokyonight" alt="最常用语言" /> |
-| --- | --- |
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🏆 GitHub 成就
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codingmesh&theme=radical&row=1" alt="trophy"/>
-</p>
-
-### 📫 联系方式
+<div align="center">
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Activity">
+  贡献活跃度
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Activity">
+</h2>
+</div>
 
 <div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingmesh&theme=tokyonight" alt="详细贡献图表"/>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingmesh&theme=tokyonight" alt="各语言项目分布" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingmesh&theme=tokyonight" alt="最常用语言" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingmesh&theme=tokyonight" alt="统计数据" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingmesh&theme=tokyonight&utcOffset=8" alt="活跃时间" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+<h2>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Trophy">
+  GitHub 成就
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Trophy">
+</h2>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=codingmesh&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=7" alt="GitHub 奖杯"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" alt="Contact">
+  联系方式
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" alt="Contact">
+</h2>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codingmesh@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://termiubot.cn)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codingmesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codingmesh)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codingmesh)
+<br>**Email**
 
+</td>
+<td align="center">
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://termiubot.cn)
+<br>**个人博客**
+
+</td>
+<td align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codingmesh)
+<br>**Twitter**
+
+</td>
+<td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codingmesh)
+<br>**LinkedIn**
+
+</td>
+<td align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codingmesh)
+<br>**Telegram**
+
+</td>
+</tr>
+</table>
 </div>
 
-### 📝 最新博客文章
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+<h2>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px" alt="Blog">
+  最新博客文章
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px" alt="Blog">
+</h2>
+</div>
+
+<div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-
 - 🚀 [云原生应用开发最佳实践](https://termiubot.cn/blog/cloud-native-best-practices)
 - 💡 [TypeScript 高级特性详解](https://termiubot.cn/blog/typescript-advanced)
 - 🔧 [Docker 容器化实战指南](https://termiubot.cn/blog/docker-in-action)
 <!-- BLOG-POST-LIST:END -->
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

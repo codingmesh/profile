@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="CodingMesh - full-stack engineer building LLM tools" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="CodingMesh - AI application engineering, agents, retrieval systems, and full-stack product delivery" width="100%" />
 </p>
 
 <p align="center">
@@ -11,57 +11,106 @@
 
 # CodingMesh
 
-全栈工程师，专注 LLM 应用、AI Agent、RAG 系统和云原生产品工程。
+把 LLM、Agent 和 RAG 从 demo 做成可维护、可部署、可迭代的产品系统。
 
-I build AI-native tools with the boring parts included: maintainable interfaces, deployment paths, observability, and room for iteration.
+I work across the whole path from model capability to shipped software: interfaces, APIs, retrieval, automation, deployment, and the engineering details that keep tools useful after the first run.
 
-- Based in Kunming, China
-- Focused on agent workflows, retrieval systems, multimodal interfaces, and product-grade automation
-- Comfortable across Java, TypeScript, Python, Go, and modern frontend stacks
-- Open to collaboration on practical AI systems and research-driven products
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Agent systems</h3>
+      <p>Tool use, workflow orchestration, memory design, and evaluation loops for practical AI agents.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>RAG products</h3>
+      <p>Chunking, ranking, retrieval quality, domain knowledge integration, and user-facing answer flows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Full-stack delivery</h3>
+      <p>Java, TypeScript, Python, APIs, frontend systems, CI, containers, and cloud-native operations.</p>
+    </td>
+  </tr>
+</table>
 
-## What I Build
+## Now
 
-| Area | Focus |
-| --- | --- |
-| AI agent systems | Tool use, workflow orchestration, memory, evaluation loops |
-| RAG pipelines | Chunking, ranking, retrieval quality, domain knowledge integration |
-| Full-stack products | Clean interfaces, API design, auth, persistence, deployment |
-| Cloud-native delivery | Docker, Kubernetes, CI automation, service reliability |
+- Building AI-native product workflows around agents, retrieval, and multimodal interfaces
+- Turning repeated operational work into small, dependable internal tools
+- Exploring deep research systems and quality loops for LLM-assisted work
+- Writing about cloud-native development, TypeScript, Docker, and AI engineering
 
-## Selected Work
+## Featured Work
 
-| Project | What it is | Stack | Links |
-| --- | --- | --- | --- |
-| Omni Chat | Multimodal chat platform for model-powered conversations | Vue, FastAPI, LangChain, OpenAI | [Repo](https://github.com/codingmesh/omni-chat)<br>[Live](https://omni-chat.termiubot.cn) |
-| Cert Manager | SSL certificate lifecycle manager with renewal and reminders | Python, Vue, PostgreSQL | [Repo](https://github.com/codingmesh/cert-manager)<br>[Live](https://cert.termiubot.cn) |
-| DeepResearch Agent | Research workflow system built around retrieval and LLM reasoning | LangChain, OpenAI, RAG, FastAPI | [Repo](https://github.com/codingmesh/deepresearch-agent) |
-| Password Generator | Small security utility for generating and checking passwords | JavaScript, CSS, Web Crypto API | [Repo](https://github.com/codingmesh/password-generator)<br>[Live](https://passwd.termiubot.cn) |
-| FlipClock | Customizable flip clock interface | Vue 3, TypeScript, Vite | [Repo](https://github.com/codingmesh/flip-clock) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/codingmesh/omni-chat">Omni Chat</a></h3>
+      <p>多模型、多模态聊天平台，面向真实产品场景的 LLM 对话体验。</p>
+      <p><code>Vue</code> <code>FastAPI</code> <code>LangChain</code> <code>OpenAI</code></p>
+      <p><a href="https://omni-chat.termiubot.cn">Live</a> / <a href="https://github.com/codingmesh/omni-chat">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/codingmesh/deepresearch-agent">DeepResearch Agent</a></h3>
+      <p>围绕检索、推理和信息整理构建的深度研究 Agent 系统。</p>
+      <p><code>LangChain</code> <code>OpenAI</code> <code>RAG</code> <code>FastAPI</code></p>
+      <p><a href="https://github.com/codingmesh/deepresearch-agent">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/codingmesh/cert-manager">Cert Manager</a></h3>
+      <p>SSL 证书生命周期管理工具，覆盖续期、提醒和证书运维流程。</p>
+      <p><code>Python</code> <code>Vue</code> <code>PostgreSQL</code></p>
+      <p><a href="https://cert.termiubot.cn">Live</a> / <a href="https://github.com/codingmesh/cert-manager">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/codingmesh/password-generator">Password Generator</a></h3>
+      <p>安全密码生成和强度检查工具，轻量、直接、可快速使用。</p>
+      <p><code>JavaScript</code> <code>CSS</code> <code>Web Crypto API</code></p>
+      <p><a href="https://passwd.termiubot.cn">Live</a> / <a href="https://github.com/codingmesh/password-generator">Repository</a></p>
+    </td>
+  </tr>
+</table>
 
-## Toolbox
+<details>
+  <summary><b>More projects</b></summary>
 
-| Layer | Tools |
-| --- | --- |
-| Languages | `Java` `TypeScript` `JavaScript` `Python` `Go` `Rust` |
-| Frontend | `Vue` `React` `Next.js` `Vite` `Tailwind CSS` |
-| Backend | `Spring Boot` `Node.js` `Express` `FastAPI` |
-| Data | `PostgreSQL` `MySQL` `Redis` `MongoDB` |
-| AI | `OpenAI` `Claude` `LangChain` `LlamaIndex` `Transformers` `PyTorch` |
-| Delivery | `Docker` `Kubernetes` `GitHub Actions` `Nginx` `Linux` |
+| Project | Notes | Link |
+| --- | --- | --- |
+| FlipClock | Customizable flip clock interface built with Vue 3 and TypeScript | [Repository](https://github.com/codingmesh/flip-clock) |
+| Microservices Demo | Spring Boot, Docker, and Kubernetes architecture sample | [Repository](https://github.com/codingmesh/microservices-demo) |
 
-## Current Focus
+</details>
 
-- Reliable agent workflow orchestration
-- RAG quality measurement and retrieval tuning
-- Multimodal app experiences that feel useful, not ornamental
-- Cloud-native patterns for small but serious products
-- Developer tooling that removes repetitive operational work
+## Stack
 
-## GitHub Signals
+<p>
+  <code>Java</code>
+  <code>TypeScript</code>
+  <code>JavaScript</code>
+  <code>Python</code>
+  <code>Go</code>
+  <code>Rust</code>
+  <code>Vue</code>
+  <code>React</code>
+  <code>Next.js</code>
+  <code>Spring Boot</code>
+  <code>FastAPI</code>
+  <code>PostgreSQL</code>
+  <code>Redis</code>
+  <code>Docker</code>
+  <code>Kubernetes</code>
+  <code>GitHub Actions</code>
+  <code>LangChain</code>
+  <code>LlamaIndex</code>
+  <code>Transformers</code>
+  <code>PyTorch</code>
+</p>
+
+## GitHub Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Generated GitHub metrics for CodingMesh" width="480" />
+  <img src="./github-metrics.svg" alt="Generated GitHub metrics for CodingMesh" width="520" />
 </p>
 
 ## Writing

@@ -18,7 +18,7 @@ jobs:
         with:
           feed_list: "https://termiubot.cn/feed.xml" # 替换为你的博客 RSS 地址
           max_post_count: 5
-          template: "- $icon [$title]($url)"
+          template: "- [$title]($url)"
           date_format: "yyyy-mm-dd"
           locale: "zh-CN"
           comment_tag_name: "BLOG-POST-LIST"

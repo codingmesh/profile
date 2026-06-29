@@ -1,0 +1,56 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">CodingMesh profile banner</title>
+  <desc id="desc">A restrained GitHub-style banner for CodingMesh, a full-stack engineer focused on AI agents, RAG systems, and durable product tooling.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.58" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="780" y1="48" x2="1138" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#020617" flood-opacity="0.36"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#surface)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <path d="M0 304C172 254 326 309 489 268C647 229 744 122 914 115C1045 110 1137 164 1200 204V360H0V304Z" fill="#2DD4BF" fill-opacity="0.08"/>
+  <path d="M786 56H1100C1124.3 56 1144 75.6995 1144 100V260C1144 284.301 1124.3 304 1100 304H786C761.699 304 742 284.301 742 260V100C742 75.6995 761.699 56 786 56Z" fill="#0F172A" fill-opacity="0.78" stroke="#2DD4BF" stroke-opacity="0.34" filter="url(#soft-shadow)"/>
+  <path d="M782 104H1104" stroke="#2DD4BF" stroke-opacity="0.28"/>
+  <circle cx="816" cy="80" r="7" fill="#2DD4BF"/>
+  <circle cx="842" cy="80" r="7" fill="#2DD4BF" fill-opacity="0.62"/>
+  <circle cx="868" cy="80" r="7" fill="#2DD4BF" fill-opacity="0.34"/>
+
+  <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+    <text x="782" y="142" fill="#94A3B8">const focus = [</text>
+    <text x="814" y="178" fill="#E5E7EB">'agents',</text>
+    <text x="814" y="214" fill="#E5E7EB">'retrieval',</text>
+    <text x="814" y="250" fill="#E5E7EB">'tooling'</text>
+    <text x="782" y="286" fill="#94A3B8">]</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="72" y="96" fill="#2DD4BF" font-size="20" font-weight="700" letter-spacing="3">CODINGMESH</text>
+    <text x="70" y="172" fill="#F8FAFC" font-size="56" font-weight="800" letter-spacing="0">Builds LLM tools</text>
+    <text x="72" y="226" fill="#CBD5E1" font-size="25" font-weight="500">Agents, RAG, and full-stack product systems.</text>
+    <g font-size="17" font-weight="650">
+      <rect x="72" y="264" width="98" height="38" rx="19" fill="#2DD4BF" fill-opacity="0.16" stroke="#2DD4BF" stroke-opacity="0.46"/>
+      <text x="101" y="289" fill="#DFFCF7">Java</text>
+      <rect x="184" y="264" width="142" height="38" rx="19" fill="#2DD4BF" fill-opacity="0.16" stroke="#2DD4BF" stroke-opacity="0.46"/>
+      <text x="214" y="289" fill="#DFFCF7">TypeScript</text>
+      <rect x="340" y="264" width="102" height="38" rx="19" fill="#2DD4BF" fill-opacity="0.16" stroke="#2DD4BF" stroke-opacity="0.46"/>
+      <text x="369" y="289" fill="#DFFCF7">Python</text>
+      <rect x="456" y="264" width="118" height="38" rx="19" fill="#2DD4BF" fill-opacity="0.16" stroke="#2DD4BF" stroke-opacity="0.46"/>
+      <text x="487" y="289" fill="#DFFCF7">Agents</text>
+    </g>
+  </g>
+
+  <path d="M1124 36C1138.36 36 1150 47.6406 1150 62V298C1150 312.359 1138.36 324 1124 324H76C61.6406 324 50 312.359 50 298V62C50 47.6406 61.6406 36 76 36H1124Z" stroke="#FFFFFF" stroke-opacity="0.08"/>
+</svg>

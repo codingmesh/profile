@@ -1,119 +1,68 @@
-<p align="center">
-  <img src="./assets/profile-hero.svg" alt="CodingMesh - AI application engineering, agents, retrieval systems, and full-stack product delivery" width="100%" />
-</p>
+<img src="./assets/profile-cover.png" alt="CodingMesh. AI applications. Built end to end." width="100%" />
 
-<p align="center">
-  <a href="https://termiubot.cn"><img alt="Website" src="https://img.shields.io/badge/Website-termiubot.cn-0F766E?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="mailto:codingmesh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-codingmesh%40gmail.com-0F766E?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/codingmesh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-codingmesh-0F766E?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/codingmesh"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-codingmesh-0F766E?style=flat-square&logo=x&logoColor=white"></a>
-</p>
+**AI application engineer · Full-stack developer**
 
-# CodingMesh
+把 LLM、Agent 和 RAG 做成可维护、可部署、可迭代的产品。
+从对话界面、检索与工具调用，到 API、自动化和云端部署。
 
-把 LLM、Agent 和 RAG 从 demo 做成可维护、可部署、可迭代的产品系统。
-
-I work across the whole path from model capability to shipped software: interfaces, APIs, retrieval, automation, deployment, and the engineering details that keep tools useful after the first run.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Agent systems</h3>
-      <p>Tool use, workflow orchestration, memory design, and evaluation loops for practical AI agents.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>RAG products</h3>
-      <p>Chunking, ranking, retrieval quality, domain knowledge integration, and user-facing answer flows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Full-stack delivery</h3>
-      <p>Java, TypeScript, Python, APIs, frontend systems, CI, containers, and cloud-native operations.</p>
-    </td>
-  </tr>
-</table>
-
-## Now
-
-- Building AI-native product workflows around agents, retrieval, and multimodal interfaces
-- Turning repeated operational work into small, dependable internal tools
-- Exploring deep research systems and quality loops for LLM-assisted work
-- Writing about cloud-native development, TypeScript, Docker, and AI engineering
+[Website](https://termiubot.cn) &nbsp; / &nbsp; [Email](mailto:codingmesh@gmail.com) &nbsp; / &nbsp; [Writing](#writing)
 
 ## Featured Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codingmesh/omni-chat">Omni Chat</a></h3>
-      <p>多模型、多模态聊天平台，面向真实产品场景的 LLM 对话体验。</p>
-      <p><code>Vue</code> <code>FastAPI</code> <code>LangChain</code> <code>OpenAI</code></p>
-      <p><a href="https://omni-chat.termiubot.cn">Live</a> / <a href="https://github.com/codingmesh/omni-chat">Repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codingmesh/deepresearch-agent">DeepResearch Agent</a></h3>
-      <p>围绕检索、推理和信息整理构建的深度研究 Agent 系统。</p>
-      <p><code>LangChain</code> <code>OpenAI</code> <code>RAG</code> <code>FastAPI</code></p>
-      <p><a href="https://github.com/codingmesh/deepresearch-agent">Repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codingmesh/cert-manager">Cert Manager</a></h3>
-      <p>SSL 证书生命周期管理工具，覆盖续期、提醒和证书运维流程。</p>
-      <p><code>Python</code> <code>Vue</code> <code>PostgreSQL</code></p>
-      <p><a href="https://cert.termiubot.cn">Live</a> / <a href="https://github.com/codingmesh/cert-manager">Repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codingmesh/password-generator">Password Generator</a></h3>
-      <p>安全密码生成和强度检查工具，轻量、直接、可快速使用。</p>
-      <p><code>JavaScript</code> <code>CSS</code> <code>Web Crypto API</code></p>
-      <p><a href="https://passwd.termiubot.cn">Live</a> / <a href="https://github.com/codingmesh/password-generator">Repository</a></p>
-    </td>
-  </tr>
-</table>
+### [Omni Chat](https://github.com/codingmesh/omni-chat)
 
-<details>
-  <summary><b>More projects</b></summary>
+**多模型，一个对话入口。**
 
-| Project | Notes | Link |
-| --- | --- | --- |
-| FlipClock | Customizable flip clock interface built with Vue 3 and TypeScript | [Repository](https://github.com/codingmesh/flip-clock) |
-| Microservices Demo | Spring Boot, Docker, and Kubernetes architecture sample | [Repository](https://github.com/codingmesh/microservices-demo) |
+多模型、多模态聊天平台，面向真实产品场景的 LLM 对话体验。
 
-</details>
+`Vue` `FastAPI` `LangChain` `OpenAI`
+
+[Try it](https://omni-chat.termiubot.cn) · [Source](https://github.com/codingmesh/omni-chat)
+
+### [DeepResearch Agent](https://github.com/codingmesh/deepresearch-agent)
+
+**从问题出发，连接检索与推理。**
+
+围绕检索、推理与信息整理构建的深度研究 Agent。
+
+`LangChain` `OpenAI` `RAG` `FastAPI`
+
+[Source](https://github.com/codingmesh/deepresearch-agent)
+
+### Small tools, everyday use
+
+- **[Cert Manager](https://github.com/codingmesh/cert-manager)** · SSL 证书续期、提醒与生命周期管理。 [在线使用](https://cert.termiubot.cn)
+- **[Password Generator](https://github.com/codingmesh/password-generator)** · 轻量的密码生成与强度检查。 [在线使用](https://passwd.termiubot.cn)
+- **[FlipClock](https://github.com/codingmesh/flip-clock)** · 用 Vue 3 与 TypeScript 构建的可定制翻页时钟。
+
+[Microservices Demo](https://github.com/codingmesh/microservices-demo) · Spring Boot、Docker 与 Kubernetes 架构实践。
+
+## Now
+
+- **Agent workflows** · 探索工具调用、记忆设计与评估流程。
+- **Retrieval quality** · 关注知识检索、排序与研究结果的质量反馈。
+- **Developer tools** · 把重复的运维工作变成小而实用的自动化工具。
 
 ## Stack
 
-<p>
-  <code>Java</code>
-  <code>TypeScript</code>
-  <code>JavaScript</code>
-  <code>Python</code>
-  <code>Go</code>
-  <code>Rust</code>
-  <code>Vue</code>
-  <code>React</code>
-  <code>Next.js</code>
-  <code>Spring Boot</code>
-  <code>FastAPI</code>
-  <code>PostgreSQL</code>
-  <code>Redis</code>
-  <code>Docker</code>
-  <code>Kubernetes</code>
-  <code>GitHub Actions</code>
-  <code>LangChain</code>
-  <code>LlamaIndex</code>
-  <code>Transformers</code>
-  <code>PyTorch</code>
-</p>
+**Java / TypeScript / Python**
 
-## GitHub Activity
+Vue、React 与 Next.js 构建界面，Spring Boot 与 FastAPI 提供服务，Docker 与 Kubernetes 承载部署。
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="Generated GitHub metrics for CodingMesh" width="520" />
-</p>
+<details>
+<summary>Languages, frameworks & infrastructure</summary>
+
+- **Languages:** Java, TypeScript, JavaScript, Python, Go, Rust
+- **Frontend:** Vue, React, Next.js
+- **Backend:** Spring Boot, FastAPI, PostgreSQL, Redis
+- **AI:** LangChain, LlamaIndex, Transformers, PyTorch
+- **Infrastructure:** Docker, Kubernetes, GitHub Actions
+
+</details>
 
 ## Writing
+
+记录云原生开发、TypeScript、容器化与 AI 工程实践。
 
 <!-- BLOG-POST-LIST:START -->
 - [云原生应用开发最佳实践](https://termiubot.cn/blog/cloud-native-best-practices)
@@ -123,9 +72,14 @@ I work across the whole path from model capability to shipped software: interfac
 
 ## Connect
 
+[X / Twitter](https://twitter.com/codingmesh) · [LinkedIn](https://linkedin.com/in/codingmesh) · [Telegram](https://t.me/codingmesh)
+
+<details>
+<summary>GitHub Activity</summary>
+
+<a id="github-activity"></a>
 <p>
-  <a href="mailto:codingmesh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-codingmesh%40gmail.com-0F766E?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://termiubot.cn"><img alt="Website" src="https://img.shields.io/badge/Website-termiubot.cn-0F766E?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="https://linkedin.com/in/codingmesh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-codingmesh-0F766E?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/codingmesh"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-codingmesh-0F766E?style=flat-square&logo=telegram&logoColor=white"></a>
+  <img src="./github-metrics.svg" alt="CodingMesh GitHub activity and language metrics" width="520" />
 </p>
+
+</details>
